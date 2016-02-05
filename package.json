@@ -1,0 +1,10 @@
+{
+  "name": "language-property-list",
+  "version": "0.1.0",
+  "description": "Property List language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-property-list.git"
+  },
+  "license": "MIT"
+}
